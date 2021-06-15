@@ -198,7 +198,8 @@ h2 {
 
 #grid {
   display: block;
-  max-width: 50%;
+  justify-content: center;
+  max-width: 100%;
 
 }
 

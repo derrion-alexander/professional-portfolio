@@ -289,6 +289,7 @@ footer {
   width: 100%;
   padding: 70px;
   font-size: 18px;
+  text-align: center;
   text-shadow: 0.5px 0.5px 8px green;
   border: solid;
   border-width; 2px;

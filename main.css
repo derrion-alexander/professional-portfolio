@@ -197,9 +197,8 @@ h2 {
 }
 
 #grid {
-  display: flex;
+  display: block;
   max-width: 50%;
-  padding-right: 40px;
 
 }
 

@@ -296,21 +296,21 @@ footer {
 
 .li1 {
   border: solid;
-  border-width; 2px;
+  border-width; 1px;
   border-color: white;
 }
 
 .li2 {
-  padding-left: 150px;
-  padding-right: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
   border: solid;
-  border-width; 2px;
+  border-width; 1px;
   border-color: white;
 }
 
 .li3 {
   border: solid;
-  border-width; 2px;
+  border-width; 1px;
   border-color: white;
 }
 

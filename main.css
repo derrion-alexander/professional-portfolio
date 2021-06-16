@@ -286,11 +286,15 @@ footer {
 .contactli {
   display: flex;
   list-style-type: none;
-  width: 100%;
+  width: auto;
   padding: 70px;
   font-size: 18px;
   text-align: center;
   text-shadow: 0.5px 0.5px 8px green;
+  
+}
+
+.li1 {
   border: solid;
   border-width; 2px;
   border-color: white;
@@ -299,6 +303,15 @@ footer {
 .li2 {
   padding-left: 150px;
   padding-right: 150px;
+  border: solid;
+  border-width; 2px;
+  border-color: white;
+}
+
+.li3 {
+  border: solid;
+  border-width; 2px;
+  border-color: white;
 }
 
 #gif {
